@@ -9,7 +9,7 @@ function About() {
           This is a simple Hello World React application built with modern web technologies:
         </p>
         <ul>
-          <li><strong>React 18:</strong> Latest version with concurrent features</li>
+          <li><strong>React 16.8:</strong> React with hooks support</li>
           <li><strong>Webpack 5:</strong> Modern bundler with Module Federation</li>
           <li><strong>React Router:</strong> Client-side routing</li>
           <li><strong>Module Federation:</strong> Micro-frontend architecture</li>

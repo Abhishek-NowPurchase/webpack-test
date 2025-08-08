@@ -8,8 +8,8 @@ function Home() {
         <p>Welcome to our React app built with Module Federation</p>
         <div className="features">
           <div className="feature">
-            <h3>🚀 React 18</h3>
-            <p>Latest React features and hooks</p>
+            <h3>🚀 React 16.8</h3>
+            <p>React with hooks support</p>
           </div>
           <div className="feature">
             <h3>🔄 Module Federation</h3>
